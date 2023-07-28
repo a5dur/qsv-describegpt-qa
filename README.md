@@ -52,6 +52,7 @@ The QA testing for the ``describegpt`` command involved the following aspects:
 
 ## Test Results
   Head over to the [Jupyter file](https://github.com/a5dur/qsv-describegpt-qa/blob/main/qsv-describegpt-qa.ipynb) for all the test results 
+  > Why Jupyter? Jupyter Notebook provides support for text editor, terminal commands and notebook, all in under one roof!
    
 ## Types of CSV files used
 
