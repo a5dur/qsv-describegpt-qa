@@ -49,6 +49,9 @@ The QA testing for the ``describegpt`` command involved the following aspects:
 
 10. **Default Option Behavior Testing:**
     - Validate that the "describegpt" command behaves appropriately when no options are specified, and default behavior is followed.
+
+## Test Results
+  Head over to the [Jupyter file](https://github.com/a5dur/qsv-describegpt-qa/blob/main/qsv-describegpt-qa.ipynb) for all the test results 
    
 ## Types of CSV files used
 
