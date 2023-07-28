@@ -53,11 +53,15 @@ The QA testing for the ``describegpt`` command involved the following aspects:
 ## Types of CSV files used
 
 To thoroughly test the ``describegpt`` command, we’ve used various types of CSV files that cover different scenarios and data structures.
-- Basic CSV File: A simple CSV file with a few columns and rows, containing basic data types like integers, strings, and dates.
+- Small CSV File: A simple CSV file with a few columns and rows, containing basic data types like integers, strings, and dates.
+
+- Medium sized CSV File: A basic CSV file with a few thousand columns and rows, containing data types like integers, strings, and dates.
 
 - Large CSV File: A CSV file with a large number of columns and rows, simulating real-world datasets with substantial data volume.
 
 - Empty CSV File: A CSV file with no records or data to test how the "describegpt" command handles empty datasets.
+
+- A corrupt CSV File: A CSV file that is damaged or contain errors. These errors can be caused by various issues, such as missing or mismatched delimiters, improper encoding, inconsistent quoting, or unexpected characters within the dataA CSV file with
 
 - CSV File with Missing Values: A CSV file containing missing or null values in some columns to evaluate how "describegpt" infe  metadata in the presence of missing data.
 
@@ -68,8 +72,6 @@ To thoroughly test the ``describegpt`` command, we’ve used various types of CS
 - CSV File with Long Texts: A CSV file with columns containing long text or free-form descriptions to verify if "describegpt" captures and summarizes the content effectively.
 
 - CSV File with Unstructured Data: A CSV file with unstructured data (e.g., multiple data formats in a single column) to test the command's handling of diverse data structures.
-
-- CSV File with Irregular Formatting: A CSV file with irregular formatting, such as varying delimiters or inconsistent quoting styles, to assess metadata inference accuracy in such cases.
 
 By using a diverse set of CSV files for testing, we can ensure that the ``describegpt`` command performs well in various scenarios and provides accurate and useful extended metadata for different types of datasets. This approach helps ensure that the command is robust and reliable for real-world use cases.
 
