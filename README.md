@@ -69,11 +69,7 @@ To thoroughly test the ``describegpt`` command, we’ve used various types of CS
 
 - CSV File with Unstructured Data: A CSV file with unstructured data (e.g., multiple data formats in a single column) to test the command's handling of diverse data structures.
 
-- CSV File with Multiple Sheets: A multi-sheet CSV file to evaluate how "describegpt" interacts with and handles metadata inference for different sheets.
-
 - CSV File with Irregular Formatting: A CSV file with irregular formatting, such as varying delimiters or inconsistent quoting styles, to assess metadata inference accuracy in such cases.
-
-- CSV File with Large Text Field: A CSV file with a column containing large text fields (e.g., paragraphs or text blocks) to evaluate performance and accuracy.
 
 By using a diverse set of CSV files for testing, we can ensure that the ``describegpt`` command performs well in various scenarios and provides accurate and useful extended metadata for different types of datasets. This approach helps ensure that the command is robust and reliable for real-world use cases.
 
