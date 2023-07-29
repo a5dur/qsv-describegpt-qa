@@ -1,0 +1,5 @@
+field,type,sum,min,max,range,min_length,max_length,mean,stddev,variance,nullcount,sparsity,mad,lower_outer_fence,lower_inner_fence,q1,q2_median,q3,iqr,upper_inner_fence,upper_outer_fence,skewness,cardinality,mode,mode_count,mode_occurrences,antimode,antimode_count,antimode_occurrences
+Column1,NULL,,,,,,,,,,0,,,,,,,,,,,,0,,0,0,*ALL,0,1
+Column2,NULL,,,,,,,,,,0,,,,,,,,,,,,0,,0,0,*ALL,0,1
+Column3,NULL,,,,,,,,,,0,,,,,,,,,,,,0,,0,0,*ALL,0,1
+Column4,NULL,,,,,,,,,,0,,,,,,,,,,,,0,,0,0,*ALL,0,1

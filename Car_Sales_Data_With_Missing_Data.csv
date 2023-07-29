@@ -1,0 +1,42 @@
+Date,CarModel,UnitsSold,Revenue
+2023-01-01,Toyota Camry,100,50000
+2023-01-02,Ford Mustang,75,60000
+2023-01-03,Honda Civic,,40000
+2023-01-04,Chevrolet Silverado,120,80000
+2023-01-05,Jeep Wrangler,90,
+2023-01-06,Nissan Altima,80,55000
+2023-01-07,,95,65000
+2023-01-08,Ford Explorer,105,70000
+2023-01-09,Toyota Corolla,70,
+2023-01-10,Honda CR-V,110,75000
+2023-01-11,Subaru Outback,,60000
+2023-01-12,Mercedes-Benz C-Class,50,55000
+2023-01-13,BMW X5,85,75000
+2023-01-14,,120,90000
+2023-01-15,Toyota RAV4,65,55000
+2023-01-16,Chevrolet Tahoe,,85000
+2023-01-17,Ford F-150,105,
+2023-01-18,Honda Accord,95,60000
+2023-01-19,Nissan Rogue,80,45000
+2023-01-20,,110,70000
+2023-01-21,Toyota Highlander,90,65000
+2023-01-22,Jeep Grand Cherokee,,80000
+2023-01-23,Ford Escape,70,50000
+2023-01-24,Subaru Forester,100,
+2023-01-25,Chevrolet Equinox,85,60000
+2023-01-26,Hyundai Tucson,,40000
+2023-01-27,Honda Pilot,75,55000
+2023-01-28,Nissan Sentra,65,
+2023-01-29,Toyota Sienna,95,70000
+2023-01-30,,80,60000
+2023-01-31,Ford Bronco,110,
+2023-02-01,Honda CR-V,95,70000
+2023-02-02,,75,55000
+2023-02-03,Toyota Camry,120,80000
+2023-02-04,Jeep Wrangler,80,
+2023-02-05,Ford Mustang,,60000
+2023-02-06,Nissan Altima,105,70000
+2023-02-07,,90,65000
+2023-02-08,Chevrolet Silverado,65,
+2023-02-09,Honda Civic,85,75000
+2023-02-10,Toyota Corolla,,40000
