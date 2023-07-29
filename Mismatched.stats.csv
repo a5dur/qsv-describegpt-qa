@@ -1,0 +1,6 @@
+field,type,sum,min,max,range,min_length,max_length,mean,stddev,variance,nullcount,sparsity,mad,lower_outer_fence,lower_inner_fence,q1,q2_median,q3,iqr,upper_inner_fence,upper_outer_fence,skewness,cardinality,mode,mode_count,mode_occurrences,antimode,antimode_count,antimode_occurrences
+Name,String,,Alice Nuno,William,,0,15,,,,1,0.0455,,,,,,,,,,,22,,0,0,*ALL,0,1
+Age,String,,22,twenty-nine,,2,11,,,,0,0,,,,,,,,,,,13,30,1,3,"22,32,thirty-five,thirty-two,twenty-nine",5,1
+Email,String,,alice.nuno@example.com,william@example.com,,16,27,,,,0,0,,,,,,,,,,,22,,0,0,*ALL,0,1
+Phone,String,,1234,abcde,,4,10,,,,0,0,,,,,,,,,,,16,9876543210,1,3,"*PREVIEW: 1234,1234567890,2345678901,3216549870,4563217890,6543210987,6547893210,7890123456,99999999...",11,1
+IsSubscribed,String,,123,xyz,,3,5,,,,0,0,,,,,,,,,,,7,true,1,13,"123,40000,70000,90000,xyz",5,1

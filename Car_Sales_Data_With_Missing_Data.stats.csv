@@ -1,0 +1,5 @@
+field,type,sum,min,max,range,min_length,max_length,mean,stddev,variance,nullcount,sparsity,mad,lower_outer_fence,lower_inner_fence,q1,q2_median,q3,iqr,upper_inner_fence,upper_outer_fence,skewness,cardinality,mode,mode_count,mode_occurrences,antimode,antimode_count,antimode_occurrences
+Date,String,,2023-01-01,2023-02-10,,10,10,,,,0,0,,,,,,,,,,,41,,0,0,*ALL,0,1
+CarModel,String,,BMW X5,Toyota Sienna,,0,21,,,,6,0.1463,,,,,,,,,,,28,,1,6,"*PREVIEW: BMW X5,Chevrolet Equinox,Chevrolet Tahoe,Ford Bronco,Ford Escape,Ford Explorer,Ford F-150,...",19,1
+UnitsSold,Integer,3040,50,120,70,0,3,89.4118,17.3953,302.5952,7,0.1707,15,-15,30,75,90,105,30,150,195,0,13,,1,7,50,1,1
+Revenue,Integer,2085000,40000,90000,50000,0,5,63181.8182,12781.2707,163360881.5427,8,0.1951,10000,2500,28750,55000,60000,72500,17500,98750,125000,0.4286,12,,1,8,"45000,85000,90000",3,1
